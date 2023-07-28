@@ -28,7 +28,7 @@ In our analysis we considered a few key stakeholders including:
 
 1. Empower Automotive Executives
 2. Car buyers
-3. Car Sellers
+3. Car sellers
 
 ## Data Understanding and Analysis
 We examined data from Kaggle Dataset "Car Price Prediction Challenge". We focused on the Price, Prod. year, Leather interior and Mileage features for our models.

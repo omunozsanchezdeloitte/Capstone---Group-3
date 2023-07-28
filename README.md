@@ -26,8 +26,8 @@ How can Empower Automotive become a trusted source for used car prices?
 ### Stakeholders
 In our analysis we considered a few key stakeholders including:
 
-1. Empower Automotive
-2. Customers
+1. Empower Automotive Executives
+2. Car buyers
 3. Car Sellers
 
 ## Data Understanding and Analysis

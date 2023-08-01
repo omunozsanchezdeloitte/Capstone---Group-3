@@ -2,6 +2,8 @@
 
 # Empower Automotive Used Car Analysis
 
+![cars](https://th.bing.com/th/id/R.9afaff6944accabe5dc55f713134f5fa?rik=ha%2fls5fh6wMN2Q&riu=http%3a%2f%2fmcity.umich.edu%2fwp-content%2fuploads%2f2017%2f02%2fcar-sunrise.jpg&ehk=3ZQbYDUCnoP09vNWkQ1uj7XLQWarfDz6hUJY1pmOLy8%3d&risl=&pid=ImgRaw&r=0)
+
 ## Overview
 In our report we will cover:
 

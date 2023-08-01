@@ -13,9 +13,9 @@ In our report we will cover:
 
 Related Presentation, Jupyer Notebook, and Data Sources are linked below:
 
-PowerPoint Presentation
-Jupyter Notebook
-Data Sources
+1. PowerPoint Presentation
+2. Jupyter Notebook
+3. Data Sources
 
 ## Business Understanding
 Empower Automotive is an app that users can use to help set a price on their used car. They are trying to become a large player in the used car automotive industry. Their goal is to help users analyze what price would be the most accurate, competitive, and successful for selling their cars. We formed key questions to answer in order to provide the stakeholders our best recommendations.

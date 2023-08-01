@@ -11,22 +11,24 @@ In our report we will cover:
 2. Data Understanding and Analysis: Our data sources, descriptions and visualizations.
 3. Conclusion: Our relevant findings and recommendations. 
 
-Related PowerPoint and Jupyer Notebook are linked below:
+Related Presentation, Jupyer Notebook, and Data Sources are linked below:
 
 PowerPoint Presentation
 Jupyter Notebook
+Data Sources
 
 ## Business Understanding
 Empower Automotive is an app that users can use to help set a price on their used car. They are trying to become a large player in the used car automotive industry. Their goal is to help users analyze what price would be the most accurate, competitive, and successful for selling their cars. We formed key questions to answer in order to provide the stakeholders our best recommendations.
 
 ### Key Business Questions
+
 1. What features are the most important when accurately pricing a car?
 2. What is the relationship between car price and year?
 3. What is the relationship between leather interior and price?
 4. How can Empower Automotive become a trusted source for used car prices?
 
 ### Stakeholders
-In our analysis we considered a few key stakeholders including:
+In our analysis we considered a few key stakeholders, including:
 
 1. Empower Automotive Executives
 2. Car buyers

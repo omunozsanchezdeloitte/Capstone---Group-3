@@ -21,8 +21,11 @@ Empower Automotive is an app that users can use to help set a price on their use
 
 ### Key Business Questions
 What features are the most important when accurately pricing a car?
+
 What is the relationship between car price and year?
+
 What is the relationship between leather interior and price?
+
 How can Empower Automotive become a trusted source for used car prices?
 
 ### Stakeholders

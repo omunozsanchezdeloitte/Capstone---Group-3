@@ -20,13 +20,10 @@ Jupyter Notebook
 Empower Automotive is an app that users can use to help set a price on their used car. They are trying to become a large player in the used car automotive industry. Their goal is to help users analyze what price would be the most accurate, competitive, and successful for selling their cars. We formed key questions to answer in order to provide the stakeholders our best recommendations.
 
 ### Key Business Questions
-What features are the most important when accurately pricing a car?
-
-What is the relationship between car price and year?
-
-What is the relationship between leather interior and price?
-
-How can Empower Automotive become a trusted source for used car prices?
+1. What features are the most important when accurately pricing a car?
+2. What is the relationship between car price and year?
+3. What is the relationship between leather interior and price?
+4. How can Empower Automotive become a trusted source for used car prices?
 
 ### Stakeholders
 In our analysis we considered a few key stakeholders including:

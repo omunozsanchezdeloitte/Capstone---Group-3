@@ -18,7 +18,7 @@ Related Presentation, Jupyer Notebook, and Data Sources are linked below:
 3. Data Sources
 
 ## Business Understanding
-Empower Automotive is an app that users can use to help set a price on their used car. They are trying to become a major player in the used car automotive industry. Their goal is to help users analyze what price would be the most accurate, competitive, and successful for selling their cars. We formed key questions to answer in order to provide the stakeholders our best recommendations.
+Empower Automotive is an app that users can use to help set a price on their used car. Their goal is to help users analyze what price would be the most accurate, competitive, and successful for selling their cars. We formed key questions to answer in order to provide the stakeholders our best recommendations.
 
 ### Key Business Questions
 1. What features are the most important when accurately pricing a car?
@@ -27,8 +27,6 @@ Empower Automotive is an app that users can use to help set a price on their use
 4. How can Empower Automotive become a trusted source for used car prices?
 
 ### Stakeholders
-In our analysis we considered a few key stakeholders, including:
-
 1. Empower Automotive Executives
 2. Car buyers
 3. Car sellers

@@ -17,7 +17,7 @@ Related Presentation, Jupyer Notebook, and Data Sources are linked below:
 2. Jupyter Notebook
 3. Data Sources
 
-This README is a summary of our project. 
+This GitHub repository is a one-stop shop for this project. We have a main branch, as well as a branch for each project member: Hannah, Sasha, Cristian, Oscar, and Jordan. In the files section you can find the dataset, PowerPoint Presentation, and Jupyter Notebooks. The README provides a summary of everything regarding the project, as well as the links to those files.
 
 ## Business Understanding
 Empower Automotive is an app that users can use to help set a price on their used car.

@@ -50,18 +50,21 @@ Then we began modeling with our selected, cleaned data.
 We used models to analyze our main business questions. We created visualizations to help support our questions and analysis.
 
 Price and Mileage - Linear Regression
+
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/9de7b480-68ab-411a-9170-752ff48711e8)
 
 - This graph showed cars with lower milage have a higher selling price than cars with higher mileage
 - Estimation is not very accurate; Need to add more features
 
 Price and Production Year - Random Forest
+
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/1e9fab84-e1ba-4ff7-a9f4-d83449ee6969)
 
 - This graph shows newer models of cars have a higher selling price than older models of cars
 - There are some instances where the car is older but has a higher selling price because it is vintage or a one of a kind
 
 Price and Leather Interior
+
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/eec1b81d-0071-4316-b219-5412e8014dee)
 
 - This box and whisker plot shows cars with leather interior tend to have higher price tags than cars without leather interiors

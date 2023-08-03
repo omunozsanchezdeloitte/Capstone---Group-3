@@ -37,6 +37,7 @@ Empower Automotive's goal is to help users analyze what price would be the most 
 ## Data Understanding and Analysis
 We examined data from Kaggle Dataset "Car Price Prediction Challenge". We focused on the Price, Prod. year, Leather interior, and Mileage features for our models.
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/1ef59da8-3979-461c-9d31-7db5ebd3b4eb)
+
 (https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge)
 
 ### Descriptions of Data

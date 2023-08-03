@@ -5,10 +5,10 @@
 ## Overview
 Imagine this: you're looking to sell your used car, and you have no idea where to begin in coming up with a price. We've all been there. That is where Empower Automotive comes in. This brand-new app is working to become a major player in the automtotive industry. You download the app, snap a photo of your car, potentially fill in some unidenfitifed details, and the app recommends a reasonable price to sell your car for.
 
-Extensive data, such as those incorporating price, production year, leather interior, and milage, in conjuction with powerful AI models, such as linear regression, random forest, and XGBoost with LASSO, have gone into the creation of this app. The final recommended model, ___, did an effective job at solving the problem.
+Extensive data, such as those incorporating price, production year, leather interior, and milage, in conjuction with powerful AI models, such as linear regression, random forest, and XGBoost with LASSO, have gone into the creation of this app. Our final recommended model, ___, did an effective job at solving the problem.
 
 In our report we will cover:
-1. Business Understanding: The goal, key questions, and stakeholders.
+1. Business Understanding: The goal, key business questions, and stakeholders.
 2. Data Understanding & Analysis: Data sources, descriptions, and visualizations.
 3. Conclusion: Relevant findings and recommendations. 
 

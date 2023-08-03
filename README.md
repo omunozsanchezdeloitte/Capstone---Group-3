@@ -34,8 +34,9 @@ Empower Automotive's goal is to help users analyze what price would be the most 
 2. Car buyers
 3. Car sellers
 
-## Data Understanding and Analysis
+## Data Understanding & Analysis
 We examined data from Kaggle Dataset "Car Price Prediction Challenge". We focused on the Price, Prod. year, Leather interior, and Mileage features for our models.
+
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/1ef59da8-3979-461c-9d31-7db5ebd3b4eb)
 
 (https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge)
@@ -43,23 +44,28 @@ We examined data from Kaggle Dataset "Car Price Prediction Challenge". We focuse
 ### Descriptions of Data
 Our first step was to implement some data cleaning in this data set. We replaced null values to 0 or removed them. This allows us to be able to convert data types to float.
 
-### Visualizations and Modeling
-We created visualizations to help support our questions and analysis.
+Then we began modeling with our selected, cleaned data.
 
-Price and Mileage 
-This graph shows cars with the lowest mileage have a higher selling price than those with high mileage.
+### Modeling & Evaluation
+We used models to analyze our main business questions. We created visualizations to help support our questions and analysis.
 
+Price and Mileage - Linear Regression
+![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/9de7b480-68ab-411a-9170-752ff48711e8)
 
+- This graph showed cars with lower milage have a higher selling price than cars with higher mileage
+- Estimation is not very accurate; Need to add more features
 
+Price and Production Year - Random Forest
+![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/1e9fab84-e1ba-4ff7-a9f4-d83449ee6969)
 
-Price and Production Year
-This graph shows newer models of cars have a higher selling price than older models. There are some instances where the car is older but has a higher price tag because it is vintage or a one of a kind.
+- This graph shows newer models of cars have a higher selling price than older models of cars
+- There are some instances where the car is older but has a higher selling price because it is vintage or a one of a kind
 
+Price and Leather Interior
+![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/eec1b81d-0071-4316-b219-5412e8014dee)
 
-
-
-Price and Leather Interior 
-This box and whisker plot shows cars with leather interior tend to have higher price tags but the averages of leather vs cloth are similar showing that leather interior does not have that much of a value add when selling used cars.
+- This box and whisker plot shows cars with leather interior tend to have higher price tags than cars without leather interiors
+- The averages of leather vs cloth are similar showing that leather interior does not have that much of a value add when selling used cars
 
 ## Conclusion
-We recommend Empower Automotive to use the xxx modeling technique as it proves to be the most accurate. 
+We recommend Empower Automotive to use the ___ modeling technique as it proves to be the most accurate.

@@ -62,7 +62,7 @@ We used models to analyze our main business questions. We created visualizations
 - There are some instances where the car is older but has a higher selling price because it is vintage or a one of a kind
 - Engine volume and mileage are also important influencers on the price for this model
 
-#### Price & Type of Aspiration
+#### Price & Type of Aspiration - XGBoost with LASSO
 
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/72d69825-49ad-4fd1-bfe0-06fd0c4c3e92)
 

@@ -14,8 +14,8 @@ In our report we will cover:
 
 Related Presentation, Jupyer Notebook, and Data Sources are linked below:
 1. PowerPoint Presentation
-2. Jupyter Notebook
-3. Data Sources
+2. Jupyter Notebook: 
+3. Data Source: https://github.com/omunozsanchezdeloitte/Capstone---Group-3/blob/main/db3.csv
 
 This GitHub repository is a one-stop shop for this project. We have a main branch, as well as a branch for each project member: Hannah, Sasha, Cristian, Oscar, and Jordan. In the files section you can find the dataset, PowerPoint Presentation, and Jupyter Notebooks. The README provides a summary of everything regarding the project, as well as the links to those files.
 

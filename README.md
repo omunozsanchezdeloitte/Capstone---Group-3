@@ -5,7 +5,7 @@
 ## Overview
 Imagine this: you're looking to sell your used car, and you have no idea where to begin in coming up with a price. We've all been there. That is where Empower Automotive comes in. This brand-new app is working to become a major player in the automtotive industry. You download the app, snap a photo of your car, potentially fill in some unidenfitifed details, and the app recommends a reasonable price to sell your car for.
 
-Extensive data, such as those incorporating price, production year, leather interior, and milage, in conjuction with powerful AI models, such as linear regression, random forest, and XGBoost with LASSO, have gone into the creation of this app. Our final recommended model, XGBoost with LASSO, did an effective job at solving the problem.
+Extensive data, such as those incorporating price, production year, leather interior, and mileage, in conjuction with powerful AI models, such as linear regression, random forest, and XGBoost with LASSO, have gone into the creation of this app. Our final recommended model, XGBoost with LASSO, did an effective job at solving the problem.
 
 In our report we will cover:
 1. Business Understanding: The goal, key business questions, and stakeholders.
@@ -23,54 +23,68 @@ This GitHub repository is a one-stop shop for this project. We have a main branc
 Empower Automotive is an app that users can use to help set a price on their used car.
 
 ### Goal
-Empower Automotive's goal is to help users analyze what price would be the most accurate, competitive, and successful for selling their cars. We formed key questions to answer in order to provide the stakeholders our best recommendations.
+Empower Automotive's goal is to help users analyze what price would be the most accurate, competitive, and successful for selling their cars. Our goal is to provide Empower Automotive a recommendation based on data analysis of linear regression, random forest, and XGBoost with LASSO. We formed key business questions and will consider stakeholder input to provide the recommendation.
 
 ### Key Business Questions
 1. What features are the most important when accurately pricing a car?
-2. What is the relationship between car price and year?
-3. What is the relationship between leather interior and price?
-4. How can Empower Automotive become a trusted source for used car prices?
+2. How can Empower Automotive become a trusted source for used car prices?
 
 ### Stakeholders
 1. Empower Automotive Executives
-2. Car buyers
-3. Car sellers
+2. Car sellers & buyers
 
 ## Data Understanding & Analysis
+### Descriptions of Data
+
 We examined data from Kaggle Dataset "Car Price Prediction Challenge". We focused on the Price, Prod. year, Leather interior, and Mileage features for our models.
 
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/1ef59da8-3979-461c-9d31-7db5ebd3b4eb)
 
 (https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge)
 
-### Descriptions of Data
 Our first step was to implement some data cleaning in this data set. We replaced null values to 0 or removed them. This allows us to be able to convert data types to float.
 
-Then we began modeling with our selected, cleaned data.
+Then we began modeling with our selected, cleaned data in order to provide the best recommendation.
+
+### Model Selection Evaluation
+1. Linear Regression
+   - Base will always be linear
+   - There was no significant difference between the base and linear
+   * Continued to follow up with more complex models that are more common and suitable for regression problems: 
+2. Random Forest
+   - One of the most common models for regression
+   - Simplicity and high accuracy
+3. XGBoost with LASSO
+   - Execution speed and model performance
+   - Simplicity and high accuracy
 
 ### Modeling & Evaluation
 We used models to analyze our main business questions. We created visualizations to help support our questions and analysis.
 
-#### Price & Mileage - Linear Regression
+#### Price & Production Year - Linear Regression
 
-![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/9de7b480-68ab-411a-9170-752ff48711e8)
+![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/f9311b79-0935-49e8-b299-e20270a398da)
 
-- This graph showed cars with lower milage have a higher selling price than cars with higher mileage
-- Estimation is not very accurate; Need to add more features
+- The graph demonstrates the newer the car, the higher the price
 
-#### Price & Production Year - Random Forest
+#### Price & Production Year + Engine Volume - Random Forest
 
-![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/1e9fab84-e1ba-4ff7-a9f4-d83449ee6969)
+![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/8690f936-b4ee-4516-9bdf-603d8cfdc768)
 
 - This graph shows newer models of cars have a higher selling price than older models of cars
-- There are some instances where the car is older but has a higher selling price because it is vintage or a one of a kind
+- Engine volume and mileage are also important influencers on the price for this model
 
-#### Price & Leather Interior
+#### Price & Type of Aspiration - XGBoost with LASSO
 
-![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/eec1b81d-0071-4316-b219-5412e8014dee)
+![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/72d69825-49ad-4fd1-bfe0-06fd0c4c3e92)
 
-- This box and whisker plot shows cars with leather interior tend to have higher price tags than cars without leather interiors
-- The averages of leather vs cloth are similar showing that leather interior does not have that much of a value add when selling used cars
+- Better performance than previous models
+- Different features account the most for this model
 
 ## Conclusion
-We recommend Empower Automotive to use the XGBoost with LASSO modeling technique as it proves to be the most accurate. This model had the smallest RMSE and a strong R2.
+1. What features are the most important when accurately pricing a car?
+    - The most important features for determining car prices are Year of Production, Engine Volume and Aspiration Type
+2. How can Empower Automotive become a trusted source for used car prices?
+    - Empower can become a trusted source by using the most up-to-date car data and continuing to add features that are useful for sellers and buyers, especially features related with the condition of the car
+
+In comparing linear regression, random forest, and XGBoost with LASSO, our recommendation is for Empower Automotive to use XGBoost with LASSO. This model proved to be the most accurate, with the smallest RMSE and a strong R2.

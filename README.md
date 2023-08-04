@@ -56,15 +56,15 @@ We used models to analyze our main business questions. We created visualizations
 
 #### Price & Production Year + Engine Volume - Random Forest
 
-![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/1e9fab84-e1ba-4ff7-a9f4-d83449ee6969)
+![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/8690f936-b4ee-4516-9bdf-603d8cfdc768)
 
 - This graph shows newer models of cars have a higher selling price than older models of cars
 - There are some instances where the car is older but has a higher selling price because it is vintage or a one of a kind
 - Engine volume and mileage are also important influencers on the price for this model
 
-#### Price & Leather Interior
+#### Price & Type of aspiration
 
-![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/eec1b81d-0071-4316-b219-5412e8014dee)
+![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/72d69825-49ad-4fd1-bfe0-06fd0c4c3e92)
 
 - This box and whisker plot shows cars with leather interior tend to have higher price tags than cars without leather interiors
 - The averages of leather vs cloth are similar showing that leather interior does not have that much of a value add when selling used cars

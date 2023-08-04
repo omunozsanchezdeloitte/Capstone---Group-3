@@ -72,4 +72,4 @@ We used models to analyze our main business questions. We created visualizations
 - Better performance than previous models
 
 ## Conclusion
-In comparison of linear regression, random forest, and XGBoost with LASSO, our recommendation is for Empower Automotive to use XGBoost with LASSO. This model proved the most accurate with the smallest RMSE and a strong R2.
+In comparing linear regression, random forest, and XGBoost with LASSO, our recommendation is for Empower Automotive to use XGBoost with LASSO. This model proved to be the most accurate, with the smallest RMSE and a strong R2.

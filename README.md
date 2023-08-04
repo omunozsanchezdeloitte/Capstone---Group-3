@@ -31,6 +31,7 @@ Empower Automotive's goal is to help users analyze what price would be the most 
 
 ### Stakeholders
 1. Empower Automotive Executives
+2. Car sellers and buyers
 
 ## Data Understanding & Analysis
 We examined data from Kaggle Dataset "Car Price Prediction Challenge". We focused on the Price, Prod. year, Leather interior, and Mileage features for our models.

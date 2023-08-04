@@ -59,7 +59,6 @@ We used models to analyze our main business questions. We created visualizations
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/8690f936-b4ee-4516-9bdf-603d8cfdc768)
 
 - This graph shows newer models of cars have a higher selling price than older models of cars
-- There are some instances where the car is older but has a higher selling price because it is vintage or a one of a kind
 - Engine volume and mileage are also important influencers on the price for this model
 
 #### Price & Type of Aspiration - XGBoost with LASSO

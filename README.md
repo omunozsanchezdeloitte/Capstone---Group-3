@@ -13,7 +13,7 @@ In our report we will cover:
 3. Conclusion: Relevant findings and recommendations. 
 
 Related Presentation, Jupyer Notebook, and Data Sources are linked below:
-1. PowerPoint Presentation
+1. PowerPoint Presentation: https://github.com/omunozsanchezdeloitte/Capstone---Group-3/blob/main/Capstone_Group3_Presentation.pdf
 2. Jupyter Notebook: https://github.com/omunozsanchezdeloitte/Capstone---Group-3/blob/main/Untitled.ipynb
 3. Data Source: https://github.com/omunozsanchezdeloitte/Capstone---Group-3/blob/main/db3.csv
 

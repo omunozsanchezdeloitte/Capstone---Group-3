@@ -23,7 +23,7 @@ This GitHub repository is a one-stop shop for this project. We have a main branc
 Empower Automotive is an app that users can use to help set a price on their used car.
 
 ### Goal
-Empower Automotive's goal is to help users analyze what price would be the most accurate, competitive, and successful for selling their cars. We formed key questions to answer in order to provide the stakeholders our best recommendations.
+Empower Automotive's goal is to help users analyze what price would be the most accurate, competitive, and successful for selling their cars. Our goal is to provide Empower Automotive a recommendation based on data analysis of linear regression, random forest, and XGBoost with LASSO. We formed key business questions and will consider stakeholder input to provide the recommendation.
 
 ### Key Business Questions
 1. What features are the most important when accurately pricing a car?

@@ -27,14 +27,10 @@ Empower Automotive's goal is to help users analyze what price would be the most 
 
 ### Key Business Questions
 1. What features are the most important when accurately pricing a car?
-2. What is the relationship between car price and year?
-3. What is the relationship between leather interior and price?
-4. How can Empower Automotive become a trusted source for used car prices?
+2. How can Empower Automotive become a trusted source for used car prices?
 
 ### Stakeholders
 1. Empower Automotive Executives
-2. Car buyers
-3. Car sellers
 
 ## Data Understanding & Analysis
 We examined data from Kaggle Dataset "Car Price Prediction Challenge". We focused on the Price, Prod. year, Leather interior, and Mileage features for our models.

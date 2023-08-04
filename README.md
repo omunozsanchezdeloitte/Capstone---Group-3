@@ -45,6 +45,18 @@ Our first step was to implement some data cleaning in this data set. We replaced
 
 Then we began modeling with our selected, cleaned data in order to provide the best recommendation.
 
+### Model Selection Evaluation
+1. Linear Regression
+   - Base will always be linear
+   - There was no significant difference between the base and linear
+   * Continued to follow up with more complex models that are more common and suitable for regression problems: 
+2. Random Forest
+   - One of the most common models for regression
+   - Simplicity and high accuracy
+3. XGBoost with LASSO
+   - Execution speed and model performance
+   - Simplicity and high accuracy
+
 ### Modeling & Evaluation
 We used models to analyze our main business questions. We created visualizations to help support our questions and analysis.
 

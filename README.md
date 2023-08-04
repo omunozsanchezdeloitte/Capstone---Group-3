@@ -87,6 +87,7 @@ We used models to analyze our main business questions. We created visualizations
 2. How can Empower Automotive become a trusted source for used car prices?
     - Empower can become a trusted source by using the most up-to-date car data and continuing to add features that are useful for sellers and buyers, especially features related with the condition of the car
 
+### Our Recommendation
 In comparing linear regression, random forest, and XGBoost with LASSO, our recommendation is for Empower Automotive to use XGBoost with LASSO. This model proved to be the most accurate, with the smallest RMSE and a strong R2.
 
 ### Next Steps

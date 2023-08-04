@@ -42,7 +42,7 @@ We examined data from Kaggle Dataset "Car Price Prediction Challenge". We focuse
 ### Descriptions of Data
 Our first step was to implement some data cleaning in this data set. We replaced null values to 0 or removed them. This allows us to be able to convert data types to float.
 
-Then we began modeling with our selected, cleaned data.
+Then we began modeling with our selected, cleaned data in order to provide the best recommendation.
 
 ### Modeling & Evaluation
 We used models to analyze our main business questions. We created visualizations to help support our questions and analysis.

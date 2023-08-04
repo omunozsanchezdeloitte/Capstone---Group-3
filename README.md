@@ -48,12 +48,11 @@ Then we began modeling with our selected, cleaned data in order to provide the b
 ### Modeling & Evaluation
 We used models to analyze our main business questions. We created visualizations to help support our questions and analysis.
 
-#### Price & Mileage - Linear Regression
+#### Price & Production Year - Linear Regression
 
-![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/9de7b480-68ab-411a-9170-752ff48711e8)
+![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/f9311b79-0935-49e8-b299-e20270a398da)
 
-- This graph showed cars with lower milage have a higher selling price than cars with higher mileage
-- Need to add more features to improve accuracy
+- The graph demonstrates the newer the car, the higher the price
 
 #### Price & Production Year + Engine Volume - Random Forest
 

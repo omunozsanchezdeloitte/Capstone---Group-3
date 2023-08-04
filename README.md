@@ -53,7 +53,7 @@ We used models to analyze our main business questions. We created visualizations
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/9de7b480-68ab-411a-9170-752ff48711e8)
 
 - This graph showed cars with lower milage have a higher selling price than cars with higher mileage
-- Estimation is not very accurate; Need to add more features
+- Need to add more features to improve accuracy
 
 #### Price & Production Year + Engine Volume - Random Forest
 
@@ -67,9 +67,8 @@ We used models to analyze our main business questions. We created visualizations
 
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/72d69825-49ad-4fd1-bfe0-06fd0c4c3e92)
 
-- This box and whisker plot shows cars with leather interior tend to have higher price tags than cars without leather interiors
-- The averages of leather vs cloth are similar showing that leather interior does not have that much of a value add when selling used cars
 - Better performance than previous models
+- Different features account the most for this model
 
 ## Conclusion
 In comparing linear regression, random forest, and XGBoost with LASSO, our recommendation is for Empower Automotive to use XGBoost with LASSO. This model proved to be the most accurate, with the smallest RMSE and a strong R2.

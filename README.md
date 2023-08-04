@@ -31,7 +31,7 @@ Empower Automotive's goal is to help users analyze what price would be the most 
 
 ### Stakeholders
 1. Empower Automotive Executives
-2. Car sellers and buyers
+2. Car sellers & buyers
 
 ## Data Understanding & Analysis
 We examined data from Kaggle Dataset "Car Price Prediction Challenge". We focused on the Price, Prod. year, Leather interior, and Mileage features for our models.
@@ -69,4 +69,9 @@ We used models to analyze our main business questions. We created visualizations
 - Different features account the most for this model
 
 ## Conclusion
+1. What features are the most important when accurately pricing a car?
+    - The most important features for determining car prices are Year of Production, Engine Volume and Aspiration Type
+2. How can Empower Automotive become a trusted source for used car prices?
+    - Empower can become a trusted source by using the most up-to-date car data and continuing to add features that are useful for sellers and buyers, especially features related with the condition of the car
+
 In comparing linear regression, random forest, and XGBoost with LASSO, our recommendation is for Empower Automotive to use XGBoost with LASSO. This model proved to be the most accurate, with the smallest RMSE and a strong R2.

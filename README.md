@@ -5,7 +5,7 @@
 ## Overview
 Imagine this: you're looking to sell your used car, and you have no idea where to begin in coming up with a price. We've all been there. That is where Empower Automotive comes in. This brand-new app is working to become a major player in the automtotive industry. You download the app, snap a photo of your car, potentially fill in some unidenfitifed details, and the app recommends a reasonable price to sell your car for.
 
-Extensive data, such as those incorporating price, production year, leather interior, and milage, in conjuction with powerful AI models, such as linear regression, random forest, and XGBoost with LASSO, have gone into the creation of this app. Our final recommended model, XGBoost with LASSO, did an effective job at solving the problem.
+Extensive data, such as those incorporating price, production year, leather interior, and mileage, in conjuction with powerful AI models, such as linear regression, random forest, and XGBoost with LASSO, have gone into the creation of this app. Our final recommended model, XGBoost with LASSO, did an effective job at solving the problem.
 
 In our report we will cover:
 1. Business Understanding: The goal, key business questions, and stakeholders.
@@ -62,7 +62,7 @@ We used models to analyze our main business questions. We created visualizations
 - There are some instances where the car is older but has a higher selling price because it is vintage or a one of a kind
 - Engine volume and mileage are also important influencers on the price for this model
 
-#### Price & Type of aspiration
+#### Price & Type of Aspiration
 
 ![image](https://github.com/omunozsanchezdeloitte/Capstone---Group-3/assets/125094602/72d69825-49ad-4fd1-bfe0-06fd0c4c3e92)
 
